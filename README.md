@@ -19,9 +19,10 @@
 
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="Anoushka Ghosh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Anoushka Ghosh | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="hell_nytmare | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Anoushka Ghosh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Anoushka Ghosh | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
 
 <br />
 
@@ -56,6 +57,6 @@
 
 
 [instagram]: https://www.instagram.com/hell_nytmare/
+[facebbok]: https://www.facebook.com/anoushka.ghosh.773
 [linkedin]: https://www.linkedin.com/in/anoushka-ghosh-0689b2191/
 [twitter]: https://twitter.com/_Anoushka_Ghosh
-[facebbok]: https://www.facebook.com/anoushka.ghosh.773
