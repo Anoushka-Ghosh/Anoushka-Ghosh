@@ -1,14 +1,14 @@
-### Hello World, I'm Anoushka  👋
+### Hi Coders, I'm Anoushka 👋
 
 <img align="right" alt="GIF" src="https://github.com/Anoushka-Ghosh/Anoushka-Ghosh/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on open source
+- 👯 I’m looking to collaborate on Open Source
 - 🤔 I’m looking for help with Soft Skills
-- 💬 Ask me about anything
-- 📫 How to reach me: Instagram
+- 💬 Ask me about ...anything
+- 📫 How to reach me: [LinkedIn]
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am very happy!!!
 
