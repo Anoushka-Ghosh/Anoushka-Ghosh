@@ -58,4 +58,4 @@
 [instagram]: https://www.instagram.com/hell_nytmare/
 [linkedin]: https://www.linkedin.com/in/anoushka-ghosh-0689b2191/
 [twitter]: https://twitter.com/_Anoushka_Ghosh
-[facebbok]: https://www.facebook.com/anoushka.ghosh.773/
+[facebbok]: https://www.facebook.com/anoushka.ghosh.773
