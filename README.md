@@ -2,18 +2,15 @@
 
 <img align="right" alt="GIF" src="https://github.com/Anoushka-Ghosh/Anoushka-Ghosh/blob/main/code.gif?raw=true" width="500" height="320" />
 
-
-- 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on Open Source
-- 🤔 I’m looking for help with Soft Skills
-- 💬 Ask me about ...anything
-- 📫 How to reach me: [LinkedIn]
+- 🎓 I’m an Open-Source enthusiast & a student pursuing Bachelors in Computer Science & Engineering.
+- 🔭 I’m currently working on building my full-stack Web-Development skills.
+- 🌱 I’m currently learning JavaScript and Node.JS.
+- 👯 I’m looking to collaborate on Open-Source Projects.
+- 🤔 I’m looking for help with Soft Skills and Backend Development.
+- 💬 Ask me about ...anything.
+- 📫 How to reach me: [LinkedIn] and [twitter]
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am very happy!!!
-
-
-
 
 
 
