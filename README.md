@@ -4,8 +4,8 @@
 
 - 🎓 I’m a student pursuing Bachelors in Computer Science & Engineering.
 - 🔭 I’m currently working on Frontend-Development.
-- 🌱 I’m currently learning JavaScript.
-- 🤔 I’m looking for help with Soft Skills and Frontend Development.
+- 🌱 I’m currently learning OOPS.
+- 🤔 I’m looking for help with Problem Solving on DSA.
 - 💬 Ask me about ...anything.
 - 📫 How to reach me: [LinkedIn]
 - 😄 Pronouns: She/Her
@@ -28,7 +28,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="C" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
 <img align="left" alt="CPP" width="26px" src="https://isocpp.org/files/img/cpp_logo.png" />
-<img align="left" alt="Java" width="26px" src="https://cdn.vox-cdn.com/thumbor/_AobZZDt_RVStktVR7mUZpBkovc=/0x0:640x427/1200x800/filters:focal(0x0:640x427)/cdn.vox-cdn.com/assets/1087137/java_logo_640.jpg" />
+<img align="left" alt="Java" width="26px" src="https://dev.java/assets/images/java-logo-vert-blk.png" />
 
 <br />
 <br />
