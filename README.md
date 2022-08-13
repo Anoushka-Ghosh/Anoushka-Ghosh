@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/Anoushka-Ghosh/Anoushka-Ghosh/blob/main/code.gif?raw=true" width="500" height="320" />
 
-- 🎓 I’m a student pursuing Bachelors in Computer Science & Engineering.
+- 🎓 I’m a student pursuing Bachelors in Computer Science & Engineering. And also Management Trainee-Software Engineer @StockEdge
 - 🌱 I’m currently learning OOPS.
 - 🤔 I’m looking for help with Problem Solving on DSA.
 - 💬 Ask me about ...anything.
